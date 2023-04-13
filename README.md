@@ -79,6 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### sunglasses: Highlighted Projects :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siliconboi&repo=spotify-clone)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siliconboi&repo=Waste-Management-App)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siliconboi&repo=Waste-Management-System)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siliconboi&repo=Project-Management-App)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
