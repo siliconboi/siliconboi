@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring new frontend technologies.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: I also solve problems on Leetcode or InterviewBit in my spare time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/aishwary-tripathi-4265b9216)
 
