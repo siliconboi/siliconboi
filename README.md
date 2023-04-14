@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="[https://user-images.githubusercontent.com/92984926/231811239-b0963241-fed9-4edd-a849-ab655a1f9c6c.png](https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif)" width="100"/>
   <div id="badges">
-    <a href="www.linkedin.com/in/aishwary-tripathi-4265b9216">
+    <a href="https://www.linkedin.com/in/aishwary-tripathi-4265b9216">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://leetcode.com/mini-drafter/">
@@ -34,7 +34,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: I also solve problems on Leetcode or InterviewBit in my spare time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/aishwary-tripathi-4265b9216)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aishwary-tripathi-4265b9216)
 
 ---
 
