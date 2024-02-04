@@ -70,10 +70,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siliconboi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### 🔧: My Coding Platform Stats :
-[![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mini-drafter&IN)](https://github.com/KnlnKS/leetcode-stats)
-
----
 ### :sunglasses: Highlighted Projects :
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siliconboi&repo=spotify-clone)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=siliconboi&repo=Waste-Management-System)](https://github.com/anuraghazra/github-readme-stats)
