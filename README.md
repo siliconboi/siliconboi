@@ -4,9 +4,6 @@
     <a href="https://www.linkedin.com/in/aishwary-tripathi-4265b9216">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://leetcode.com/mini-drafter/">
-      <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmini-drafter&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=siliconboi&style=flat-square&color=blue" alt=""/>
   <h1>
